@@ -1,0 +1,9 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId:
+        https://api.rpubs.com/api/v1/document/135127/e3b5bd1a03f14bc992d2cdea45538cf7
+bundleId:
+        https://api.rpubs.com/api/v1/document/135127/e3b5bd1a03f14bc992d2cdea45538cf7
+url: http://rpubs.com/eliza-harkins/135127
+when: 1450235203.45903
