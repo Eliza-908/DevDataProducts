@@ -1,6 +1,7 @@
 library(shiny)
 library(ggplot2)
 library(datasets)
+require(markdown)
 
 options <- diamonds[,7:10]
 
