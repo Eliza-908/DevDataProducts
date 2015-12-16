@@ -2,8 +2,8 @@ name: DevDataProducts
 account: eliza-908
 server: shinyapps.io
 appId: 73841
-bundleId: 332310
+bundleId: 332329
 url: https://eliza-908.shinyapps.io/DevDataProducts
-when: 1450220867.80397
+when: 1450222505.4334
 asMultiple: FALSE
 asStatic: FALSE

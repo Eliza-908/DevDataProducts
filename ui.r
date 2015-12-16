@@ -16,5 +16,6 @@ fluidPage(
   ), 
   mainPanel(
     plotOutput('plot')
-  )
+  ),
+  includeMarkdown('README.md')
 )
